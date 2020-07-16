@@ -1,0 +1,28 @@
+{
+  "name": "szhw-koa2",
+  "version": "1.0.0",
+  "description": "基于node.js写个koa2，并用来构建一个基础的server。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szhw-github/szhw-koa2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szhw-github/szhw-koa2/issues"
+  },
+  "homepage": "https://github.com/szhw-github/szhw-koa2#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "eslint": "^7.4.0"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.10.4"
+  }
+}
