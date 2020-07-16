@@ -19,5 +19,6 @@ function compose(midds) {
     }
 }
 
+//test
 let f = compose(middlewares)
 console.log(f(1,2))
